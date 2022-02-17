@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MColon1227/API-UI-automation-with-nightWatch.git"
+    "url": "git+https://github.com/MColon1227/Unosquare.git"
   },
   "author": "Marisol Colon",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/MColon1227/API-UI-automation-with-nightWatch/issues"
+    "url": "https://github.com/MColon1227/Unosquare/issues"
   },
-  "homepage": "https://github.com/MColon1227/API-UI-automation-with-nightWatch#readme",
+  "homepage": "https://github.com/MColon1227/Unosquare#readme",
   
   "devDependencies": {
     "chromedriver": "^98.0.0",
