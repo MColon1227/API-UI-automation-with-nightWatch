@@ -1,0 +1,25 @@
+{
+  "name": "unosquare",
+  "version": "1.0.0",
+  "description": "unosquare course",
+  "main": "index.js",
+  "scripts": {
+    "test": "nightwatch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MColon1227/Unosquare.git"
+  },
+  "author": "Marisol Colon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MColon1227/Unosquare/issues"
+  },
+  "homepage": "https://github.com/MColon1227/Unosquare#readme",
+  
+  "devDependencies": {
+    "chromedriver": "^98.0.0",
+    "nightwatch": "^2.0.6",
+    "selenium-server": "^3.141.59"
+  }
+}
